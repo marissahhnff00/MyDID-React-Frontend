@@ -1,0 +1,1 @@
+<button type="button" onClick={() => kc.login()}>Sign in</button>
